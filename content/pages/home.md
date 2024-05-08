@@ -3,11 +3,10 @@ title: Tina Cloud Starter
 blocks:
   - headline: Hellosnasd  asdi  asda
     text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from components/blocks, and puts them
-      all together in `pages/[filename].tsx`, all based on a config
-      `tina/config.tsx`.
+      asdfasdfasdfa sdfasics of working with Tina. You're looking at the landing
+      page, which pulls content from `content/pages/home.md`, components from
+      components/blocks, and puts them all together in `pages/[filename].tsx`,
+      all based on a config `tina/config.tsx`.
     actions:
       - label: Get Started
         type: button
