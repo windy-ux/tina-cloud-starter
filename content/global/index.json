@@ -5,9 +5,13 @@
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
+    "name": "This is web to play with",
     "color": "default",
     "nav": [
+      {
+        "href": "Moon",
+        "label": "Moon"
+      },
       {
         "href": "",
         "label": "Home"
