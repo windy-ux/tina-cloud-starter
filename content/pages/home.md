@@ -1,7 +1,7 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Ahpj jak seefef
+  - headline: Tohle je test
     text: >
       asdfasdfasdfa sdfasics of working with Tina. You're looking at the landing
       page, which pulls content from `content/pages/home.md`, components from
