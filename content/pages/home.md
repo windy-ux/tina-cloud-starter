@@ -2,11 +2,8 @@
 title: Tina Cloud Starter
 blocks:
   - headline: Tohle je test
-    text: >
-      asdfasdfasdfa sdfasics of working with Tina. You're looking at the landing
-      page, which pulls content from `content/pages/home.md`, components from
-      components/blocks, and puts them all together in `pages/[filename].tsx`,
-      all based on a config `tina/config.tsx`.
+    text: |
+      Live preview when I am editing the content
     actions:
       - label: Get Started
         type: button
